@@ -3,7 +3,7 @@ package SortingStudents;
 import java.util.*;
 
 public class SortingStudent {
-    final static int heads = 500; // 생성할 인원 수
+    final static int heads = 50; // 생성할 인원 수
     final static int minHeight = 145; // 최소 키
     final static int maxHeightRange = 50; // 최소 키에 더해지는 최대 키의 범위
     static int boyCounter = 0;

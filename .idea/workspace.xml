@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9116034f-9d9b-41b6-8b31-4f28d3a80af2" name="Changes" comment="남/녀 분할 각기 다른 기준의 오름차순 정렬">
-      <change afterPath="$PROJECT_DIR$/src/SortingStudentsV2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingStudentsV2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingStudentsV2/StudentClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingStudents/SortingStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingStudents/SortingStudent.java" afterDir="false" />
+    <list default="true" id="9116034f-9d9b-41b6-8b31-4f28d3a80af2" name="Changes" comment="1차 수정">
+      <change beforePath="$PROJECT_DIR$/src/SortingStudentsV2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingStudentsV2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +103,7 @@
       <workItem from="1676897836126" duration="8051000" />
       <workItem from="1676933576802" duration="312000" />
       <workItem from="1676961952515" duration="344000" />
-      <workItem from="1677296941507" duration="6890000" />
+      <workItem from="1677296941507" duration="7102000" />
     </task>
     <task id="LOCAL-00001" summary="남/녀 분할 각기 다른 기준의 오름차순 정렬">
       <created>1676933744207</created>
@@ -123,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676933829585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1차 수정">
+      <created>1677305108535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677305108535</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="남/녀 분할 각기 다른 기준의 오름차순 정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="남/녀 분할 각기 다른 기준의 오름차순 정렬" />
+    <MESSAGE value="1차 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="1차 수정" />
   </component>
 </project>

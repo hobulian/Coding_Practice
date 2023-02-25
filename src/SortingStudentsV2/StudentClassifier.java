@@ -21,7 +21,7 @@ public class StudentClassifier {
         ArrayList<Student> Students = new ArrayList<>();
         if (sex == null) {
             System.out.println("식별자 없음");
-        } else if (sex.equals("boy") | sex.equals("girl")) {
+        } else if (sex.equals("boy") || sex.equals("girl")) {
             for (Student student : students) {
                 if (student.getSex().equals(sex)) {
                     Students.add(student);

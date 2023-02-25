@@ -12,7 +12,7 @@ public class Main {
         classifier.addStudent(new Student("girl", 170, 2003));
         classifier.addStudent(new Student("boy", 185, 1003));
         classifier.addStudent(new Student("girl", 175, 2002));
-
+        
         classifier.printResults(classifier.getSortedByComparator(classifier.getStudents("all"), "height"));
         classifier.printResults(classifier.getSortedByComparator(classifier.getStudents("girl"), "studentNumber"));
 
